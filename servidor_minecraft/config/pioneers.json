@@ -1,0 +1,18 @@
+{
+  "DEFAULT_COLOR": "GREEN",
+  "GREEN_LIVES": 3,
+  "YELLOW_LIVES": 3,
+  "RED_LIVES": 3,
+  "LIVES_LOST_ON_DEATH": 1,
+  "LIVES_GAINED_ON_KILL": 1,
+  "ENABLE_GIVE_COMMAND": true,
+  "ENABLE_LIFE_TOKEN": true,
+  "TERM_FOR_LIVES_SINGULAR": "life",
+  "TERM_FOR_LIVES_PLURAL": "lives",
+  "TERM_FOR_PLAYERS_SINGULAR": "pioneer",
+  "TERM_FOR_PLAYERS_PLURAL": "pioneers",
+  "GREEN_GROUP_NAME": "Green Pioneers",
+  "YELLOW_GROUP_NAME": "Yellow Pioneers",
+  "RED_GROUP_NAME": "Red Pioneers",
+  "GRAY_GROUP_NAME": "The Fallen"
+}

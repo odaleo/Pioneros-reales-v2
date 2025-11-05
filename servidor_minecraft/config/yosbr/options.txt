@@ -1,0 +1,4 @@
+fov:0.5
+gamma:1.0
+guiScale:4
+soundCategory_music:0.0

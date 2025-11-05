@@ -1,0 +1,19 @@
+{
+  "style_name": "Default",
+  "update_tick_time": 20,
+  "list_header": [
+    "",
+    "<gr:#F4B643:#F85A43><bold>Pioneers Of The Realms</bold></gr>",
+    "",
+    "  <color:#555555><strikethrough>             </strikethrough>[ <color:#35c0d3>%server:online%<color:#6666676>/</color>%server:max_players%</color> ]<strikethrough>             </strikethrough></color>  ",
+    ""
+  ],
+  "list_footer": [
+    "",
+    "  <color:#555555><strikethrough>                                   </strikethrough></color>  ",
+    "",
+    "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>Ping: <color:#35c0d3>%player:ping%</color>",
+    ""
+  ],
+  "hidden_in_commands": false
+}
